@@ -1,3 +1,5 @@
+https://stockdashboard-ak.streamlit.app/
+
 # Stock Valuation Dashboard
 
 This is a Streamlit application that allows users to analyze the valuation of various stocks. The app provides a user-friendly interface to select a stock, view its historical data, and perform valuation analysis based on the Price-to-Earnings (P/E) ratio and other financial metrics.
